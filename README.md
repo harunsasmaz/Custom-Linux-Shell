@@ -22,12 +22,12 @@ Newly introduced commands:
   - google: enables to search a query on google and returns first 5 results as website link.
   - sendmail: enables to send an email, however user should give permission on the mail service, e.g. Gmail or Outlook.
   
-  Supported utilities:
-    - Auto complete with tab key.
-    - Background job with & symbol
-    - I/O redirection with <, > and >> symbols.
-      - < as stdin, > as stdout but truncate the file, >> as stdout but append the file. Stderr redirection is not supported.
-    - Pipe commands with | symbol.
+Supported utilities:
+  - Auto complete with tab key.
+  - Background job with & symbol
+  - I/O redirection with <, > and >> symbols.
+    - < as stdin, > as stdout but truncate the file, >> as stdout but append the file. Stderr redirection is not supported.
+  - Pipe commands with | symbol.
    
    
 Other prerequisites:
