@@ -23,6 +23,7 @@ Newly introduced commands:
   - sendmail: enables to send an email, however user should give permission on the mail service, e.g. Gmail or Outlook.
   
   Supported utilities:
+  
     - Auto complete with tab key.
     - Background job with & symbol
     - I/O redirection with <, > and >> symbols.
